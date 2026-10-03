@@ -1,19 +1,47 @@
 # Jae
 
-Backend engineer focused on **system architecture and modernization**.
+**Backend Engineer** · System Architecture & Modernization
 
-I work on evolving existing systems: understanding their implicit rules and constraints, extracting core domain concepts, and redesigning interfaces and boundaries. My goal is to reduce recurring engineering costs and make future changes easier.
+I turn implicit rules and complex constraints into systems that are easier to understand and evolve.
 
-### What I work on
+[Portfolio ↗](https://jae-heo.github.io/portfolio/en/) &nbsp;·&nbsp; [Writing ↗](https://jae-heo.github.io/tech/en/)
 
-- **Engine modernization** — improving the structure and technical direction of existing backend engines through incremental changes.
-- **Domain modeling and architecture** — turning complex requirements into explicit models, clear responsibilities, and well-defined interfaces.
-- **Infrastructure and DevOps** — connecting application design with how systems are deployed, operated, and maintained.
+### Areas of work
 
-### How I approach the work
+<table>
+  <tr>
+    <td width="30%" valign="top">
+      <sub>01 · MODERNIZE</sub>
+      <h3>Backend<br>engines</h3>
+    </td>
+    <td width="70%" valign="top">
+      <p>Uncover implicit rules.<br>Redesign the structure.<br>Migrate incrementally.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="30%" valign="top">
+      <sub>02 · MODEL</sub>
+      <h3>Domain<br>&amp; boundaries</h3>
+    </td>
+    <td width="70%" valign="top">
+      <p>Model core concepts.<br>Clarify ownership.<br>Define system interfaces.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="30%" valign="top">
+      <sub>03 · OPERATE</sub>
+      <h3>Infra<br>&amp; DevOps</h3>
+    </td>
+    <td width="70%" valign="top">
+      <p>Connect design to delivery.<br>Improve deployment workflows.<br>Support reliable operation.</p>
+    </td>
+  </tr>
+</table>
 
-I care about understanding the underlying problem, making ownership clear, and building structures that other engineers can extend. I'm interested in working closer to users and customers, bringing what I learn back into the domain model and product architecture.
+### From problem to system
 
-I value difficult problems, high engineering standards, and teammates who help each other grow.
+**Understand the problem** → **Model the domain** → **Evolve the system**
 
-[Writing](https://jae-heo.github.io/tech/en/) · [Portfolio](https://jae-heo.github.io/portfolio/en/)
+Reduce recurring engineering costs. Make ownership clear. Build structures others can extend.
+
+<sub>Hard problems · Shared engineering standards · Continuous growth</sub>
