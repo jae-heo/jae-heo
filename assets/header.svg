@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="240" viewBox="0 0 960 240" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Jae — Structure first.</title>
+  <desc id="desc">Backend systems, domain architecture, and developer tools. A quiet charcoal banner with mint accents and a diagram connecting domain, execution, and evidence.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="960" y2="240" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#101C25"/>
+      <stop offset="1" stop-color="#142C30"/>
+    </linearGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="1" fill="#8DB9B1" fill-opacity="0.12"/>
+    </pattern>
+  </defs>
+  <rect width="960" height="240" rx="16" fill="url(#background)"/>
+  <rect x="540" width="420" height="240" rx="16" fill="url(#grid)"/>
+  <path d="M48 46H78" stroke="#91DEC8" stroke-width="3" stroke-linecap="round"/>
+  <text x="90" y="51" fill="#C0D7D2" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" letter-spacing="2">JAE / SOFTWARE ENGINEER</text>
+  <text x="46" y="124" fill="#F2F7F5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="55" font-weight="650" letter-spacing="-2">Structure first.</text>
+  <text x="49" y="164" fill="#AFC3C4" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17">Backend systems. Domain architecture. Developer tools.</text>
+  <path d="M49 203H523" stroke="#45625E" stroke-opacity="0.65"/>
+  <g stroke="#6A9D92" stroke-width="1.5">
+    <path d="M636 91H678Q691 91 691 104V134Q691 147 704 147H742"/>
+    <path d="M781 147H820Q833 147 833 134V88"/>
+    <path d="M643 184H677Q691 184 691 171V156" stroke-dasharray="4 5" opacity="0.7"/>
+  </g>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" text-anchor="middle">
+    <rect x="571" y="67" width="107" height="47" rx="9" fill="#1B3538" stroke="#4A7269"/>
+    <text x="624.5" y="96" fill="#DAEAE6">domain</text>
+    <rect x="725" y="123" width="113" height="47" rx="9" fill="#23483F" stroke="#91DEC8"/>
+    <text x="781.5" y="152" fill="#CCF3E7">execution</text>
+    <rect x="781" y="44" width="112" height="44" rx="9" fill="#1B3538" stroke="#4A7269"/>
+    <text x="837" y="71" fill="#DAEAE6">evidence</text>
+    <circle cx="635" cy="184" r="5" fill="#91DEC8"/>
+    <circle cx="691" cy="147" r="4" fill="#91DEC8"/>
+  </g>
+</svg>
