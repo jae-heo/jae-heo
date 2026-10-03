@@ -1,47 +1,29 @@
-# Jae
+## Jae
 
 **Backend Engineer** · System Architecture & Modernization
 
-I turn implicit rules and complex constraints into systems that are easier to understand and evolve.
+I make complex systems easier to understand, change, and extend.
 
-[Portfolio ↗](https://jae-heo.github.io/portfolio/en/) &nbsp;·&nbsp; [Writing ↗](https://jae-heo.github.io/tech/en/)
+[Portfolio ↗](https://jae-heo.github.io/portfolio/en/) &nbsp; / &nbsp; [Writing ↗](https://jae-heo.github.io/tech/en/)
 
-### Areas of work
+<br>
 
-<table>
-  <tr>
-    <td width="30%" valign="top">
-      <sub>01 · MODERNIZE</sub>
-      <h3>Backend<br>engines</h3>
-    </td>
-    <td width="70%" valign="top">
-      <p>Uncover implicit rules.<br>Redesign the structure.<br>Migrate incrementally.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="30%" valign="top">
-      <sub>02 · MODEL</sub>
-      <h3>Domain<br>&amp; boundaries</h3>
-    </td>
-    <td width="70%" valign="top">
-      <p>Model core concepts.<br>Clarify ownership.<br>Define system interfaces.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="30%" valign="top">
-      <sub>03 · OPERATE</sub>
-      <h3>Infra<br>&amp; DevOps</h3>
-    </td>
-    <td width="70%" valign="top">
-      <p>Connect design to delivery.<br>Improve deployment workflows.<br>Support reliable operation.</p>
-    </td>
-  </tr>
-</table>
+<picture>
+  <source media="(max-width: 767px) and (prefers-color-scheme: dark)" srcset="assets/focus-mobile-dark.svg">
+  <source media="(max-width: 767px) and (prefers-color-scheme: light)" srcset="assets/focus-mobile-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/focus-dark.svg">
+  <img src="assets/focus-light.svg" width="100%" alt="Areas of work: backend engine modernization, domain modeling and system boundaries, infrastructure and DevOps. My approach: understand the problem and its constraints, model the domain and its boundaries, then evolve the system incrementally.">
+</picture>
 
-### From problem to system
+<br>
 
-**Understand the problem** → **Model the domain** → **Evolve the system**
+<details>
+  <summary>More about my work</summary>
 
-Reduce recurring engineering costs. Make ownership clear. Build structures others can extend.
+I modernize existing systems by uncovering implicit rules, extracting core domain concepts, and redesigning interfaces. The goal is to reduce recurring engineering costs and create structures that other engineers can extend.
 
-<sub>Hard problems · Shared engineering standards · Continuous growth</sub>
+My work spans backend engines, infrastructure, and DevOps. I value clear ownership, high engineering standards, and learning alongside people who challenge each other to grow.
+
+I'm interested in working closer to users and customers, connecting their problems to domain models and bringing those insights back into product architecture.
+
+</details>

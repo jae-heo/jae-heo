@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="380" viewBox="0 0 900 380" fill="none" role="img" aria-labelledby="title desc">
+<title id="title">Areas of work and approach</title>
+<desc id="desc">Backend engine modernization: reveal implicit rules, reshape the structure, and migrate incrementally. Domain architecture: model concepts, clarify ownership, and define interfaces. Infrastructure and DevOps: connect design to operations, improve deployment, and keep systems maintainable. Approach: understand the problem, model the domain, and evolve the system.</desc>
+<g font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif">
+<text x="1" y="14" fill="#59636e" font-size="11" font-weight="600" letter-spacing="1.6">AREAS OF WORK</text>
+<rect x="0.5" y="32.5" width="287" height="207" rx="10" fill="#f6f8fa" stroke="#d8dee4"/>
+<text x="20" y="62" fill="#207565" font-size="12" font-weight="600" >01</text>
+<text x="49" y="62" fill="#59636e" font-size="10" font-weight="500" letter-spacing="1.1">MODERNIZATION</text>
+<text x="20" y="104" fill="#1f2328" font-size="23" font-weight="600" letter-spacing="-0.6">Backend engines</text>
+<text x="20" y="145" fill="#1f2328" font-size="18" font-weight="400" >Reveal implicit rules.</text>
+<text x="20" y="173" fill="#1f2328" font-size="18" font-weight="400" >Reshape the structure.</text>
+<text x="20" y="201" fill="#1f2328" font-size="18" font-weight="400" >Migrate incrementally.</text>
+<rect x="306.5" y="32.5" width="287" height="207" rx="10" fill="#f6f8fa" stroke="#d8dee4"/>
+<text x="326" y="62" fill="#207565" font-size="12" font-weight="600" >02</text>
+<text x="355" y="62" fill="#59636e" font-size="10" font-weight="500" letter-spacing="1.1">ARCHITECTURE</text>
+<text x="326" y="104" fill="#1f2328" font-size="23" font-weight="600" letter-spacing="-0.6">Domain &amp; boundaries</text>
+<text x="326" y="145" fill="#1f2328" font-size="18" font-weight="400" >Model core concepts.</text>
+<text x="326" y="173" fill="#1f2328" font-size="18" font-weight="400" >Clarify ownership.</text>
+<text x="326" y="201" fill="#1f2328" font-size="18" font-weight="400" >Define interfaces.</text>
+<rect x="612.5" y="32.5" width="287" height="207" rx="10" fill="#f6f8fa" stroke="#d8dee4"/>
+<text x="632" y="62" fill="#207565" font-size="12" font-weight="600" >03</text>
+<text x="661" y="62" fill="#59636e" font-size="10" font-weight="500" letter-spacing="1.1">OPERATIONS</text>
+<text x="632" y="104" fill="#1f2328" font-size="23" font-weight="600" letter-spacing="-0.6">Infra &amp; DevOps</text>
+<text x="632" y="145" fill="#1f2328" font-size="18" font-weight="400" >Connect design to ops.</text>
+<text x="632" y="173" fill="#1f2328" font-size="18" font-weight="400" >Improve deployment.</text>
+<text x="632" y="201" fill="#1f2328" font-size="18" font-weight="400" >Keep systems maintainable.</text>
+<path d="M0 266H900" stroke="#d8dee4"/>
+<text x="1" y="295" fill="#59636e" font-size="11" font-weight="600" letter-spacing="1.6">FROM PROBLEM TO SYSTEM</text>
+<circle cx="6" cy="328" r="5" fill="#207565"/>
+<text x="22" y="334" fill="#1f2328" font-size="19" font-weight="600" >Understand</text>
+<text x="22" y="359" fill="#59636e" font-size="14" font-weight="400" >The problem &amp; its constraints</text>
+<path d="M166 328H274M268 324L274 328L268 332" stroke="#d8dee4" stroke-width="1.5"/>
+<circle cx="312" cy="328" r="5" fill="#207565"/>
+<text x="328" y="334" fill="#1f2328" font-size="19" font-weight="600" >Model</text>
+<text x="328" y="359" fill="#59636e" font-size="14" font-weight="400" >The domain &amp; its boundaries</text>
+<path d="M472 328H580M574 324L580 328L574 332" stroke="#d8dee4" stroke-width="1.5"/>
+<circle cx="618" cy="328" r="5" fill="#207565"/>
+<text x="634" y="334" fill="#1f2328" font-size="19" font-weight="600" >Evolve</text>
+<text x="634" y="359" fill="#59636e" font-size="14" font-weight="400" >The system, incrementally</text>
+</g>
+</svg>
